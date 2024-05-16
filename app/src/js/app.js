@@ -8,7 +8,7 @@
 
 var web3;
 
-var agentContractAddress = '0x75E115394aacC7c6063E593B9292CB9417E4cbeC';
+var agentContractAddress = '0xc0b5918D4251650C97C7cE8D20B7F65eeEA38138';
 
 function connect(){
     web3 = new Web3(window.ethereum)
